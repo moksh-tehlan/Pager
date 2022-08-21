@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "482626952464",
+    "project_id": "pager-d4b9c",
+    "storage_bucket": "pager-d4b9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482626952464:android:2e9c333495a6c0deea1995",
+        "android_client_info": {
+          "package_name": "com.moksh.pager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482626952464-jfpmqhnv575q951sbk5dca6dgqbnn9fc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpKUK2reGTetOAx5GZHegAv6ECzN6aDCE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482626952464-jfpmqhnv575q951sbk5dca6dgqbnn9fc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
